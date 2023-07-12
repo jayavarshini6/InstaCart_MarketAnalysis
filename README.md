@@ -53,8 +53,11 @@
 #### contains the product. Note that some orders will have no reordered items. You may predict an explicit 'None' value for orders with no reordered items. See the evaluation page for full details.
 #### order_id,product_id,add_to_cart_order,reordered
 1,49302,1,1
+
 1,11109,2,1
+
 1,10246,3,0
+
 …
 
 
@@ -62,8 +65,11 @@
 #### This file tells to which set (prior, train, test) an order belongs. You are predicting reordered items only for the test set orders. 'order_dow' is the day of week.
 
 #### order_id,user_id,eval_set,order_number,order_dow,order_hour_of_day,days_since_prior_order
+
 2539329,1,prior,1,2,08,
+
 2398795,1,prior,2,3,07,15.0
+
 473747,1,prior,3,3,12,21.0
 …
 
