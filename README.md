@@ -5,7 +5,7 @@
 
 
 
-<img align="center" src="https://github.com/jayavarshini6/InstaCart_MarketAnalysis/blob/master/IC.gif">
+<img align="center"  src="https://github.com/jayavarshini6/InstaCart_MarketAnalysis/blob/master/IC.gif">
 
 * We all know use Insta Cart for Grocery Shopping one of the top grocery platform in america with $17 billion net worth and it is famous for making life easy for millions of americans.
 
